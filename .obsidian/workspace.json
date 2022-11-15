@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD",
+                "file": "TEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,9 +154,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
-  "active": "7389031111450e66",
+  "active": "86afb4623ac01fb6",
   "lastOpenFiles": [
     "README.MD"
   ]
