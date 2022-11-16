@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-checklist-plugin",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "calendar"
 ]
